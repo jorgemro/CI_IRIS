@@ -1,5 +1,5 @@
 /// Description
-Class cigithub.data.Repositorio extends %Persistent
+Class cigithub.data.Repositorio Extends %Persistent
 {
 
 }
